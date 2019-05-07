@@ -2,4 +2,4 @@
 
 ### 1. Gitub에서 repository 만들기
 
-![Github logo](/image/new repository.PNG) 
+![repository](Gitub/.git/image/new repository.PNG) 
