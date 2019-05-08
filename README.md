@@ -4,7 +4,7 @@
 
 
 
-![repository](Gitub/image/new repository.PNG) 
+![repository](./image/new repository.PNG) 
 
 
 * 위의 사진에서 오른쪽 상단의 new repository를 눌러 새로운 repository를 생성한다.
@@ -26,8 +26,7 @@
 * 글을 다 작성하였다면 repository로 보내기 위해서 3 가지의 과정을 거쳐야합니다. add, commit, push
 
 * 변경된 파일은 아래 명령어로 (인덱스에) 추가할 수 있어요.
-```git add .
-```
+```git add .```
 이것이 바로 git의 기본 작업 흐름에서 첫 단계에 해당돼요.
 
 * 하지만 실제로 변경 내용을 확정하려면 아래 명령을 내려야 한답니다.
