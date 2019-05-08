@@ -10,11 +10,19 @@
 * 위의 사진에서 오른쪽 상단의 new repository를 눌러 새로운 repository를 생성한다.
 
 
+![create](./image/create.PNG)
+
 * 위의 사진과 같이 이름을 적고 간단한 설명을 덧붙인다. 그리고 **public**과 **initialize this repoitory with a README**을 체크 한 뒤에 **create repository**를 누르면 새 repository가 완성된다
 
 ### 2.구름IDE에서 컨테이너 만들기
 
+
+![container](./image/container.PNG)
 * 구름IDE에 회원 가입을 한 후 대쉬보드에 들어와 **새 컨테이너 생성** 을 누른다.
+
+![first](./image/1.PNG)
+
+![second](./image/2.PNG)
 
 * 첫번째 사진처럼 자신의 Gitub계정과 연결을 시키고 그 계정 안의 repository 와 연결을 시킨다. 소프트웨어 스택은 **Blank**로 한다.
 
@@ -22,6 +30,8 @@
 ### 3. 구름IDE에서 작업하고 Gitub으로 올리기
 
 * 컨테이너 와 저장소가 만들어졌으므로 이제는 앞서 배운 마크다운 문법에 맞추어 글을 작성한다.
+
+![main](./image/main.PNG)
 
 * 글을 다 작성하였다면 repository로 보내기 위해서 3 가지의 과정을 거쳐야합니다. add, commit, push
 
@@ -42,8 +52,10 @@
 
 * 마지막으로 위의 명령어를 터미널에 입력하는 방법도 있지만 Gitub을 우클릭해서 git에 add로 들어가서 다음과 같은 곳에서 add 와 commit push를 같이 할 수 도 있다.
 
+![click](./image/click.PNG)
 
 
+![easy](./image/easy.PNG)
 
 
 
