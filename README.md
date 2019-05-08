@@ -4,7 +4,7 @@
 
 
 
-![repository](../image/new repository.PNG) 
+![repository](./image/new_repository.PNG) 
 
 
 * 위의 사진에서 오른쪽 상단의 new repository를 눌러 새로운 repository를 생성한다.
